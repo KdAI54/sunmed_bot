@@ -1,5 +1,7 @@
 {"scripts": {
-  "start": "botpress start"
+  "start": "botpress start",
+  "build": "npm install && npm run compile",
+  "compile": "botpress build"
 }
   "name": "botpress",
   "private": true,
