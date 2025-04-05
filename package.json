@@ -1,4 +1,6 @@
-{
+{"scripts": {
+  "start": "botpress start"
+}
   "name": "botpress",
   "private": true,
   "scripts": {
